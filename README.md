@@ -2,7 +2,7 @@
 
 Hello Fellow ODevs, Orlando Devs is looking for volunteers to assist in revamping our existing website. Anyone is open to submit and if we use a portion or all of your work, you will get permanent credits at the bottom of our homepage and in other areas of the site and the right to add Orlando Devs Inc / Front-end Engineer on your resume if you choose!
 
-What we are looking for is simple, we want to allow for easy editing of posts, so we are looking to use Eleventy with Netlify CMS (readme below). We would love a fresh design, and lastly we would like all of the existing content to carry over. 
+What we are looking for is simple. We want to allow for easy editing of posts, so we are looking to use Eleventy with Netlify CMS (readme below). We would love a fresh design, and lastly we would like all of the existing content to carry over. 
 
 You can clone this repo to get started, and submit pull requests when you're finished! If you are interested in helping, please message @davidkpiano or @fu on our Slack.
 

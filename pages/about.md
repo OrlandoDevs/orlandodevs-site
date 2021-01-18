@@ -1,32 +1,60 @@
 ---
-title: About us
+title: Who are the Orlando Devs?
+description: We are the Orlando Devs, a community of software developers in Orlando who are life-long learners and love being around like-minded people all day.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+We are the Orlando Devs, a community of software developers in Orlando who are life-long learners and love being around like-minded people all day.
 
-## Our services
+We do that by hanging out on the [Orlando Devs Slack channel]({{ site.baseurl }}/slack) every day, and by going to multiple meetups throughout the month. We even have [our own monthly meetup]({{ site.baseurl }}/meetup) where we cover a wide array of topics that are related to software development.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+<img src="/static/img/bg.jpg" alt="Orlando Devs Meetup" class="img-border">
 
-### Blue-sky thinking
+---
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Orlando Devs Board of Directors
 
-#### Management frameworks
+**Jacques Fu, President**
+CTO at Fattmerchant, Author of "Time Hacks"
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+**Jorges Hernandez, Vice-President & Treasurer**
+Software Engineer at Trazi Ventures
 
-##### Regulatory convergence
+**Cassandra Wilcox, Secretary**
+Founder/CEO at Code Hangar, Inc.
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Orlando Devs Board of Advisors
+
+**Austin Musice**
+Director of Application Development at Omicron Media, Inc.
+
+**Andrew Kozlik**
+Mobile Solutions Engineer, Tech Lead at Wyndham Destinations
+
+**Brian Rinaldi**
+Director of Content at Progress
+
+**David Khourshid**
+Software Engineer at Microsoft, Pianist
+
+**Dwane Hemmings**
+LifeLong.dev | Radio show host
+
+**Jenell Pizarro**
+Software Developer | Tech Podcaster | Speaker
+
+**Matt Burgess**
+Senior Software Engineer at Cloudera
+
+**Timothy Ferrell**
+Senior Engineer at Auth0
+
+---
+
+We hope that you will join us soon, be on the Orlando Devs Slack, Orlando Devs Meetup, or all the other software-related meetups happening in Orlando.
+
+Have a blast! 🚀
